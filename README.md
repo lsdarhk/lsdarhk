@@ -1,4 +1,4 @@
-Hi 👋 My name is Lucifer Darhk
+Hi 👋 My name is Neal K
 ==============================
 
 Flutter, cross-platform and web student
@@ -6,7 +6,7 @@ Flutter, cross-platform and web student
 
 I've been learning Flutter for a year, I'm currently developing Awesome Information Manager or A.I.M. app for personal use and developing a website interface for A.I.M. to use as a web alternative to the app and to host my portfolio etc.
 
-*   🌍  I'm based in Copenhagen, Denmark
+*   🌍  I'm based in Bangkok, Thailand
 *   🖥️  See my portfolio at [aiminterface.com](http://profiles.aiminterface.com/lsdahrk/portfolio)
 *   ✉️  You can contact me at [lsdarhk@aiminterface.com](mailto:lsdarhk@aiminterface.com)
 *   🚀  I'm currently working on [my personal website](http://aiminterface.com)
